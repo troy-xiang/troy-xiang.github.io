@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://troyxiang.cn/java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E8%A6%81%E9%A2%86%E6%95%B4%E7%90%86/index.html</loc>
+    
+    <lastmod>2019-07-09T12:17:34.710Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://troyxiang.cn/sitemap/index.html</loc>
     
     <lastmod>2019-07-09T06:46:23.676Z</lastmod>
@@ -30,14 +37,14 @@
   </url>
   
   <url>
-    <loc>http://troyxiang.cn/schedule/index.html</loc>
+    <loc>http://troyxiang.cn/categories/index.html</loc>
     
     <lastmod>2019-07-09T06:46:23.675Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://troyxiang.cn/categories/index.html</loc>
+    <loc>http://troyxiang.cn/schedule/index.html</loc>
     
     <lastmod>2019-07-09T06:46:23.675Z</lastmod>
     
